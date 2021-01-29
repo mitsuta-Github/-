@@ -190,7 +190,7 @@ a:hover {
 }
 /*----------------------------ヘッダー関係----------------------------*/
 #top-wrapper {
-  background-image: url(main.png);
+  background-image: url(img/main.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
